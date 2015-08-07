@@ -1,5 +1,5 @@
 Mount block design
 ================
-Designed by SolidWorks 2014
+Designed with SolidWorks 2014
 
 ![](mounter.png)
